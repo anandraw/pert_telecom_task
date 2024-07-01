@@ -3,10 +3,10 @@
 url : http://localhost:8080/api/v2/comments
 </br>
 <h3> PUT: Update Comment</h3>
-url : http://localhost:8080/api/v2/comments/1
+url : http://localhost:8080/api/v2/comments/{id}
 </br>
 <h3> DELETE: Delete Comment</h3>
-url : http://localhost:8080/api/v2/comments/1
+url : http://localhost:8080/api/v2/comments/{id}
 </br>
 <h3> GET: Get All Comment</h3>
 url : http://localhost:8080/api/v2/comments
